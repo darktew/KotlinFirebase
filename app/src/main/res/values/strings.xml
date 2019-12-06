@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseCRUD</string>
+    <string name="SAVE">save</string>
+    <string name="HERONAME">HERONAME</string>
+</resources>
